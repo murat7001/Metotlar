@@ -11,6 +11,7 @@ namespace Metotlar
             urun1.UrununFiyati = 5;
             urun1.Aciklama = "Amasya Elması";
 
+
             Urun urun2 = new Urun();
             urun2.UrununAdi = "Karpuz";
             urun2.UrununFiyati = 80;
